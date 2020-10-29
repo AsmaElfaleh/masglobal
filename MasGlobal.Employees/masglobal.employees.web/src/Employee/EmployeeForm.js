@@ -25,7 +25,7 @@ class EmployeeForm extends Component {
                 <input
                     type="number"
                     pattern="[0-9]*"
-                    inputmode="numeric"
+                    inputMode="numeric"
                     placeholder="Employee Id"
                     value={this.state.id}
                     onChange={this.handleIdChange}
