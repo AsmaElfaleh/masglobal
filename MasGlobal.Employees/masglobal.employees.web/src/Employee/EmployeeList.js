@@ -9,7 +9,7 @@ export default class EmployeeList extends Component {
     }
     componentDidMount() {
         debugger;
-        var apiUrl = 'https://localhost:5001/employees'
+        var apiUrl = process.env.REACT_APP_EMPLOYEES_API_URL
         this.setState({ employeeId: this.props.employeeId });
         if (this.props.employeeId) {
             apiUrl = apiUrl + "/" + this.props.employeeId

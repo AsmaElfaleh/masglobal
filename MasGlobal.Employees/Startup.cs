@@ -94,6 +94,10 @@ namespace MasGlobal.Employees
                 {
                     spa.UseReactDevelopmentServer(npmScript: "start");
                 }
+                else if (env.IsProduction())
+                {
+                    spa.UseReactDevelopmentServer(npmScript: "build");
+                }
             });
 
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KdVISZ737YZTFK7Jaoa/fiY3fKRAXYvNVLj7/V9WagPCvr2RBgVXXhfXI1nGpUUjNMoRkOjOojipxaDorRh5oA==",
+  "dgSpecHash": "d7yatLSaTsVHUtHZThvoCiyp/KUpxVe4S5dmn6VLtuGi4X0/pW2PNkRwIoDUVv/3/Tjh3h6J7q/7y1QSzWT7hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees.Test\\MasGlobal.Employees.Test.csproj",
+  "projectFilePath": "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees.Test\\MasGlobal.Employees.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\camilo.andreschavez\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\camilo.andreschavez\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

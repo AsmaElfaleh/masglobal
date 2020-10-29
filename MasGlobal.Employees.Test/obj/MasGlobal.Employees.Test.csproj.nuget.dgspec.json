@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees.Test\\MasGlobal.Employees.Test.csproj": {}
+    "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees.Test\\MasGlobal.Employees.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees.Test\\MasGlobal.Employees.Test.csproj": {
+    "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees.Test\\MasGlobal.Employees.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees.Test\\MasGlobal.Employees.Test.csproj",
+        "projectUniqueName": "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees.Test\\MasGlobal.Employees.Test.csproj",
         "projectName": "MasGlobal.Employees.Test",
-        "projectPath": "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees.Test\\MasGlobal.Employees.Test.csproj",
+        "projectPath": "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees.Test\\MasGlobal.Employees.Test.csproj",
         "packagesPath": "C:\\Users\\camilo.andreschavez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees.Test\\obj\\",
+        "outputPath": "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camilo.andreschavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,8 +30,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees\\MasGlobal.Employees.csproj": {
-                "projectPath": "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees\\MasGlobal.Employees.csproj"
+              "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees\\MasGlobal.Employees.csproj": {
+                "projectPath": "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees\\MasGlobal.Employees.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees\\MasGlobal.Employees.csproj": {
+    "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees\\MasGlobal.Employees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees\\MasGlobal.Employees.csproj",
+        "projectUniqueName": "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees\\MasGlobal.Employees.csproj",
         "projectName": "MasGlobal.Employees",
-        "projectPath": "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees\\MasGlobal.Employees.csproj",
+        "projectPath": "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees\\MasGlobal.Employees.csproj",
         "packagesPath": "C:\\Users\\camilo.andreschavez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camilo.andreschavez\\source\\repos\\other\\masglobal\\MasGlobal.Employees\\obj\\",
+        "outputPath": "C:\\Users\\camilo.andreschavez\\source\\repos\\New folder\\masglobal\\MasGlobal.Employees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camilo.andreschavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
