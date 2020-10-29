@@ -7,7 +7,7 @@ export default class EmployeeList extends Component {
         this.state = { data: [], employeeId: '' }
     }
     tabRow() {
-        return this.state.data.map(function (object, i) {
+        return this.props.data.map(function (object, i) {
             return <Table obj={object} key={i} />;
         });
     }
